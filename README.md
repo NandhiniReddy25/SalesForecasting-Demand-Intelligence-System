@@ -6,7 +6,7 @@ This project presents an end-to-end retail analytics solution developed using Py
 
 The objective is to support inventory planning, demand forecasting, and business decision-making through interactive visualizations and data-driven insights.
 
----
+
 
 ## Key Features
 
@@ -20,7 +20,7 @@ The objective is to support inventory planning, demand forecasting, and business
 - Interactive Streamlit dashboard with business insights
 - Executive business report with actionable recommendations
 
----
+
 
 ## Forecasting Models
 
@@ -35,7 +35,7 @@ A forecasting model designed to identify trend and yearly seasonality while hand
 ### XGBoost
 A machine learning approach built using lag features, rolling averages, month, quarter, and seasonal information. Model performance was evaluated using MAE, RMSE, and MAPE, and the best-performing model was selected for deployment.
 
----
+
 
 ## Anomaly Detection
 
@@ -46,7 +46,7 @@ Weekly sales data was analyzed using two different anomaly detection techniques.
 
 The detected anomalies provide valuable insights into seasonal demand, promotional events, inventory shortages, and unexpected business fluctuations.
 
----
+
 
 ## Product Demand Segmentation
 
@@ -66,7 +66,7 @@ Four demand segments were identified:
 
 These demand groups help businesses optimize inventory allocation and replenishment strategies.
 
----
+
 
 ## Interactive Dashboard
 
@@ -79,7 +79,7 @@ The Streamlit dashboard includes:
 - 📦 Product Demand Segmentation
 - 📥 Downloadable Reports
 
----
+
 
 ## Technologies Used
 
@@ -94,7 +94,7 @@ The Streamlit dashboard includes:
 - XGBoost
 - Streamlit
 
----
+
 
 ## Project Structure
 
@@ -125,7 +125,7 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
----
+
 
 ## Author
 
@@ -135,7 +135,7 @@ B.Tech – Computer Science & Data Science
 
 Hyderabad Institute of Technology and Management
 
----
+
 
 ## Conclusion
 
