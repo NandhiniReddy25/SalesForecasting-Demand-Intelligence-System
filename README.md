@@ -109,7 +109,6 @@ SalesForecasting-Demand-Intelligence-System/
 └── README.md
 ```
 
----
 
 ## Running the Project
 
